@@ -3,9 +3,11 @@
 <nav class="navbar">
     <ul>
         <li><a href="#"> Home </a></li>
-        <li><a href="https://github.com/nakarz/os212"> GitHub </a></li>
+        <li><a href=""> Links </a></li>
         <li><a href="https://nakarz.github.io/os212/TXT/mylog.txt"> Log </a></li>
+        <li><a href="https://github.com/nakarz/os212"> GitHub </a></li>
         <li><a href=""> Rank </a></li>
+        
     </ul>
     <style>
         ul {
