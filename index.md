@@ -1,6 +1,6 @@
 # Operating Systems 2021-2 (OS212)
 
-| [Home](#) | [Links](https://github.com/nakarz/os212/blob/master/links.md#links) | [Log](https://nakarz.github.io/os212/TXT/mylog.txt) | [GitHub](https://github.com/nakarz/os212) |
+| [Home](#) | [Links]{{ site.baseurl }}/LINKS/)) | [Log](https://nakarz.github.io/os212/TXT/mylog.txt) | [GitHub](https://github.com/nakarz/os212) |
 
 ### Hula!
 
