@@ -1,4 +1,4 @@
-# LINK
+# LINKS
 
 ## Week 00
 
