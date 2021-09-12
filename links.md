@@ -1,3 +1,9 @@
+---
+permalink: /Links/
+---
+
+| [Home](https://nakarz.github.io/os212/) | [Links](#) | [Log](https://nakarz.github.io/os212/TXT/mylog.txt) | [GitHub](https://github.com/nakarz/os212) |
+
 # LINKS
 
 ## Week 00
@@ -19,5 +25,6 @@
 
 2. [Invalid Generated SSH Keys Problem](https://stackoverflow.com/questions/10476360/key-is-invalid-message-on-github) <br>
    To resolve the issue of invalid SSH keys after being copied to GitHub SSH and GPG settings
+   
 3. [AWK Tutorial](tutorialspoint.com/awk/awk_workflow.htm) <br>
    Basic learning and tutorials using AWK
