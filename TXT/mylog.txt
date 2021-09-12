@@ -20,3 +20,6 @@ ZCZC W01 25  L13 Assignment #3
 ZCZC W01 150 L14 Assignment #4: Dress Up Virtual Guest
 ZCZC W01 60  L15 Assignment #5: SSH Keys & Git Cloning
 ZCZC W01 15  L16 Assignment #7
+ZCZC W01 30  L17 Assignment #6: Dress Up GitHub Pages
+ZCZC W01 60  L18 Assignment #8
+ZCZC W01 30  L19 Assignment #9
