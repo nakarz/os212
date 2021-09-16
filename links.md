@@ -1,5 +1,5 @@
 ---
-permalink: /Links/
+permalink: /LINKS/
 ---
 
 | [Home](https://nakarz.github.io/os212/) | [Links](#) | [Log](https://nakarz.github.io/os212/TXT/mylog.txt) | [GitHub](https://github.com/nakarz/os212) |
