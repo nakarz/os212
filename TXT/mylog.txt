@@ -28,3 +28,4 @@ ZCZC W02 100 L04 OS Zoom Related
 ZCZC W02 180 L11 Do Assignment Week 2
 zczc W02 60  L06 GSGS about C Language
 ZCZC W02 45  L06 GSGS about Cyber Security
+ZCZC W02 10  L60 Fixing Assignment #13 issue
