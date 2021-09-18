@@ -1,5 +1,5 @@
 #!/bin/bash
-# REV00 Fri 17 Sep 2021 20:40:00 WIB
+# REV00 Sun 12 Sep 2021 03:10:00 WIB
 # START Sun 12 Sep 2021 03:10:00 WIB
 
 FILES="my*.txt my*.sh"
@@ -21,3 +21,4 @@ echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
 exit 0
+
