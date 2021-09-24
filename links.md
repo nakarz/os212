@@ -29,3 +29,9 @@ permalink: /LINKS/
 
 8. [Learn C Language](https://www.learn-c.org/) <br>
    Salah satu website yang menjelaskan mengenai C Language secara singkat dan disertai latihan.
+   
+9. [How The Cloud is Killing Traditional OS](https://www.neverware.com/blogcontent/cloudkillingos) <br>
+   Seiring berkembangnya Cloud Computing & Cloud Architecture, maka semakin banyak orang yang lebih berminat untuk belajar dan bekerja di bidang tersebut. Sehingga mengakibatkan pengurangan popularitas pada Sistem Operasi.
+   
+10. [Interactive Shell Explanations](https://explainshell.com/) <br>
+    Diberikan penjelasan mengenai shell commands termasuk bash commands secara interaktif.
