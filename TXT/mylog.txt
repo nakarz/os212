@@ -10,7 +10,7 @@ ZCZC W00 10  L13 Assignment #4
 ZCZC W00 60  L13 Assignment #5
 ZCZC W00 120 L04 OS Zoom Related
 ZCZC W00 100 L06 Read OS Materials
-ZCZC W01 5   L05 Quiz W00
+ZCZC W01 5   L05 Quiz W01
 ZCZC W01 100 L04 OS Zoom Related
 ZCZC W01 60  L11 Assignment #1: VirtualBox Guest Preparation
 zczc w01 60  L08 Asistensi Asdos
@@ -23,9 +23,21 @@ ZCZC W01 15  L16 Assignment #7
 ZCZC W01 30  L17 Assignment #6: Dress Up GitHub Pages
 ZCZC W01 60  L18 Assignment #8
 ZCZC W01 30  L19 Assignment #9
-ZCZC W02 20  L05 Quiz W01
+ZCZC W02 20  L05 Quiz W02
 ZCZC W02 100 L04 OS Zoom Related
 ZCZC W02 180 L11 Do Assignment Week 2
 zczc W02 60  L06 GSGS about C Language
 ZCZC W02 45  L06 GSGS about Cyber Security
 ZCZC W02 10  L60 Fixing Assignment #13 issue
+ZCZC W03 20  L05 Quiz W03
+ZCZC W03 100 L04 OS Zoom Related
+ZCZC W03 90  L11 Assignment #01
+ZCZC W03 45  L12 Assignment #02
+ZCZC W03 60  L13 Assignment #03
+ZCZC W03 10  L14 Assignment #04
+ZCZC W03 120 L15 Assignment #05 : Add/Create An Extra Virtual Disk
+ZCZC W03 15  L16 Assignment #06
+ZCZC W03 20  L17 Assignment #07
+ZCZC W03 12  L18 Assignment #08
+ZCZC W03 15  L19 Assignment #09
+ZCZC W03 20  L06 GSGS about OS vs. Hybrid Cloud Architectures
