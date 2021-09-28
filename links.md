@@ -35,3 +35,9 @@ permalink: /LINKS/
    
 10. [Interactive Shell Explanations](https://explainshell.com/) <br>
     Diberikan penjelasan mengenai shell commands termasuk bash commands secara interaktif.
+    
+11. [Stack Vs. Heap for Memory Allocation](https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/)
+    Terdapat dua jenis memory allocation ketika menjalankan program pada C, yaitu Stack dan Heap. Pada link ada _comparison parameters_ untuk membantu membedakan kedua jenis tersebut. 
+     
+12. [Dynamic Memory Management](https://en.cppreference.com/w/c/memory)
+   Pada linik ini menjelaskan secara _to the point_ mengenai lima fungsi dari _dynamic memory management_ yang saling berkaitan. Terdapat contoh yang bisa kita modifikasi sekaligus sebagai  tempat latihan.
