@@ -54,3 +54,14 @@ ZCZC W04 15  L16 Assignment #08
 ZCZC W04 05  L17 Assignment #09
 ZCZC W04 30  L18 Assignment #02 
 ZCZC W04 40  L19 Assignment #03
+ZCZC W05 20  L05 Quiz W05
+ZCZC W05 90  L06 GSGS & learn about Pipe to Subprocess
+ZCZC W05 40  L61 Manage & Backup Virtual Debian Guest
+ZCZC W05 45  L11 Assignment #01
+ZCZC W05 35  L12 Assignment #02
+ZCZC W05 60  L13 Assignment #03
+ZCZC W05 210 L14 Assignment #04
+ZCZC W05 30  L15 Assignment #05
+ZCZC W05 20  L16 Assignment #07
+ZCZC W05 15  L17 Assignment #08
+ZCZC W05 10  L18 Assignment #09
