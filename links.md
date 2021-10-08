@@ -41,3 +41,9 @@ permalink: /LINKS/
      
 12. [Dynamic Memory Management](https://en.cppreference.com/w/c/memory)
    Pada linik ini menjelaskan secara _to the point_ mengenai lima fungsi dari _dynamic memory management_ yang saling berkaitan. Terdapat contoh yang bisa kita modifikasi sekaligus sebagai  tempat latihan.
+
+13. [The Marvelous popen() Function](https://www.ibm.com/docs/en/zos/2.2.0?topic=functions-popen-initiate-pipe-stream-from-process)
+   Website ini membantu memhami fungsi _popen()_ yang membantu dalam memeriksa atau menyimpan output program.
+   
+14. [How Does Virtual Memory Work?](https://www.youtube.com/watch?v=59MxYkCs1rg)
+   Video ini menjelaskan ketika Virtual Memory menyimpan sementara _block memory_ dan mengapa kita tetap perlu adanya Virtual Memory?
