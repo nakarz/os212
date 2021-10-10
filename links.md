@@ -36,14 +36,14 @@ permalink: /LINKS/
 10. [Interactive Shell Explanations](https://explainshell.com/) <br>
     Diberikan penjelasan mengenai shell commands termasuk bash commands secara interaktif.
     
-11. [Stack Vs. Heap for Memory Allocation](https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/)
+11. [Stack Vs. Heap for Memory Allocation](https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/)<br>
     Terdapat dua jenis memory allocation ketika menjalankan program pada C, yaitu Stack dan Heap. Pada link ada _comparison parameters_ untuk membantu membedakan kedua jenis tersebut. 
      
-12. [Dynamic Memory Management](https://en.cppreference.com/w/c/memory)
-   Pada linik ini menjelaskan secara _to the point_ mengenai lima fungsi dari _dynamic memory management_ yang saling berkaitan. Terdapat contoh yang bisa kita modifikasi sekaligus sebagai  tempat latihan.
+12. [Dynamic Memory Management](https://en.cppreference.com/w/c/memory)<br>
+   Pada link ini menjelaskan secara _to the point_ mengenai lima fungsi dari _dynamic memory management_ yang saling berkaitan. Terdapat contoh yang bisa kita modifikasi sekaligus sebagai  tempat latihan.
 
-13. [The Marvelous popen() Function](https://www.ibm.com/docs/en/zos/2.2.0?topic=functions-popen-initiate-pipe-stream-from-process)
-   Website ini membantu memhami fungsi _popen()_ yang membantu dalam memeriksa atau menyimpan output program.
+13. [The Marvelous popen() Function](https://www.ibm.com/docs/en/zos/2.2.0?topic=functions-popen-initiate-pipe-stream-from-process)<br>
+   Website ini membantu memahami fungsi _popen()_ dalam memeriksa atau menyimpan output program.
    
-14. [How Does Virtual Memory Work?](https://www.youtube.com/watch?v=59MxYkCs1rg)
-   Video ini menjelaskan ketika Virtual Memory menyimpan sementara _block memory_ dan mengapa kita tetap perlu adanya Virtual Memory?
+14. [How Does Virtual Memory Work?](https://www.youtube.com/watch?v=59MxYkCs1rg)<br>
+   Video ini menjelaskan cara kerja Virtual Memory dan cara menukar data dari RAM ke _secondary storage_ untuk memungkinkan _multitasking_
