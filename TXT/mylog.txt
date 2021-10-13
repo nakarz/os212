@@ -65,3 +65,11 @@ ZCZC W05 30  L15 Assignment #05
 ZCZC W05 20  L16 Assignment #07
 ZCZC W05 15  L17 Assignment #08
 ZCZC W05 10  L18 Assignment #09
+ZCZC W06 20  L05 Quiz W06
+ZCZC W06 90  L11 Assignment #01
+ZCZC W06 120 L12 Assignment #04
+ZCZC W06 30  L13 Assignment #05
+ZCZC W06 25  L14 Assignment #07
+ZCZC W06 12  L15 Assignment #08
+ZCZC W06 05  L16 Assignment #09
+ZCZC W06 45  L06 GSGS about fork() and other Linux Hints
