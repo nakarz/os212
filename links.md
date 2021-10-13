@@ -46,4 +46,10 @@ permalink: /LINKS/
    Website ini membantu memahami fungsi _popen()_ dalam memeriksa atau menyimpan output program.
    
 14. [How Does Virtual Memory Work?](https://www.youtube.com/watch?v=59MxYkCs1rg)<br>
-   Video ini menjelaskan cara kerja Virtual Memory dan cara menukar data dari RAM ke _secondary storage_ untuk memungkinkan _multitasking_
+   Video ini menjelaskan cara kerja Virtual Memory dan cara menukar data dari RAM ke _secondary storage_ untuk memungkinkan _multitasking_.
+   
+15. [Fork System Call in C](https://linuxhint.com/fork_linux_system_call_c/)<br>
+   Pada website ini terdapat penjelasan mengenai _system call_ pada fork() disertai implementasi di _real life_ dan _basic workflow_ -nya. Selain itu, link ini juga memiliki banyak _hint_ lainnya yang sangat lengkap mengenai Linux.
+
+16. [Practice Questions about Fork()](https://www.geeksforgeeks.org/fork-practice-questions/)
+   Terdapat beberapa latihan soal disertai dengan penjelasan dan _output_ yang benar, sehingga bisa membantu kita untuk mengetahui dan memahami lebih lanjut mengenai fork(). 
