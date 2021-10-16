@@ -73,3 +73,5 @@ ZCZC W06 25  L14 Assignment #07
 ZCZC W06 12  L15 Assignment #08
 ZCZC W06 05  L16 Assignment #09
 ZCZC W06 45  L06 GSGS about fork() and other Linux Hints
+ZCZC W06 30  L17 Assignment #02
+ZCZC W06 45  L18 Assignment #03
