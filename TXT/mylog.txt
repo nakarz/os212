@@ -75,3 +75,14 @@ ZCZC W06 05  L16 Assignment #09
 ZCZC W06 45  L06 GSGS about fork() and other Linux Hints
 ZCZC W06 30  L17 Assignment #02
 ZCZC W06 45  L18 Assignment #03
+ZCZC W07 20  L05 Quiz W06
+ZCZC W07 90  L11 Assignment #01
+ZCZC W07 30  L12 Assignment #02
+ZCZC W07 40  L13 Assignment #03
+ZCZC W07 130 l14 Assignment #04
+ZCZC W07 40  L15 Assignment #05
+ZCZC W07 30  L16 Assignment #07
+ZCZC W07 15  L17 Assignment #08
+ZCZC W07 05  L18 Assignment #09
+ZCZC W07 100 L04 OS Zoom related
+ZCZC W07 45  L06 GSGS about deadlock 
