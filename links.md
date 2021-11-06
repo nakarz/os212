@@ -53,3 +53,12 @@ permalink: /LINKS/
 
 16. [Practice Questions about Fork()](https://www.geeksforgeeks.org/fork-practice-questions/)<br>
    Terdapat beberapa latihan soal disertai dengan penjelasan dan _output_ yang benar, sehingga bisa membantu kita untuk mengetahui dan memahami lebih lanjut mengenai fork(). 
+
+17. [A Look at Dekker's Algorithm](https://www.youtube.com/watch?v=MqnpIwN7dz0)<br>
+    Dekker’s Algorithm dikenal sebagai Peterson’s Algorithm.  Pada link kali ini dijelaskan mengenai algoritma Dokker yang mencegah dua proses menggunakan _source_ secara bersamaan yang digambarkan melalui animasi.
+
+18. [Deadlock Prevention](https://www.javatpoint.com/os-deadlock-prevention)<br>
+    Link ini memberikan teknik untuk mencegah deadlock sebelum muncul. Sistem akan memeriksa setiap transaksi sebelum dijalankan untuk memastikan tidak terjadi deadlock. Jika ada kemungkinan kecil bahwa suatu transaksi dapat menyebabkan kebuntuan, itu tidak pernah diizinkan untuk dieksekusi.
+    
+19. [The History of Semaphore](https://www.studytonight.com/operating-system/introduction-to-semaphores)<br>
+    Teknik Semaphore diusulkan pada tahun 1965 untuk mengelola proses bersamaan agar proses interaksinya sinkron dengan menggunakan nilai variabel integer sederhana. Selain sejarah, di dalam website ini dijelaskan keuntungan, kerugian menggunakan Semaphore, _properti_ pada Semaphore, dan tipe-tipenya disertai cara menggunakannya. 
