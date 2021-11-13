@@ -86,3 +86,14 @@ ZCZC W07 15  L17 Assignment #08
 ZCZC W07 05  L18 Assignment #09
 ZCZC W07 100 L04 OS Zoom related
 ZCZC W07 45  L06 GSGS about deadlock 
+ZCZC W08 20  L05 Quiz W07
+ZCZC W08 100 L04 OS Zoom related
+ZCZC W08 60  L11 Assignment #01
+ZCZC W08 30  L12 Assignment #02
+ZCZC W08 30  L13 Assignment #03
+ZCZC W08 130 L14 Assignment #04
+ZCZC W08 150 L15 Assignment #05
+ZCZC W08 35  L16 Assignment #06
+ZCZC W08 20  L17 Assignment #08
+ZCZC W08 15  L18 Assignment #09
+ZCZC W08 10  L19 Assignment #10
