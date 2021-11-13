@@ -35,7 +35,7 @@ permalink: /LINKS/
    
 10. [Interactive Shell Explanations](https://explainshell.com/) <br>
     Diberikan penjelasan mengenai shell commands termasuk bash commands secara interaktif.
-    
+ 
 11. [Stack Vs. Heap for Memory Allocation](https://www.geeksforgeeks.org/stack-vs-heap-memory-allocation/)<br>
     Terdapat dua jenis memory allocation ketika menjalankan program pada C, yaitu Stack dan Heap. Pada link ada _comparison parameters_ untuk membantu membedakan kedua jenis tersebut. 
      
@@ -62,3 +62,13 @@ permalink: /LINKS/
     
 19. [The History of Semaphore](https://www.studytonight.com/operating-system/introduction-to-semaphores)<br>
     Teknik Semaphore diusulkan pada tahun 1965 untuk mengelola proses bersamaan agar proses interaksinya sinkron dengan menggunakan nilai variabel integer sederhana. Selain sejarah, di dalam website ini dijelaskan keuntungan, kerugian menggunakan Semaphore, _properti_ pada Semaphore, dan tipe-tipenya disertai cara menggunakannya. 
+    
+20. [CPU Scheduling in OS](https://www.studytonight.com/operating-system/cpu-scheduling)<br>
+   Artikel ini membantu untuk memahami berbagai kriteria pada _scheduling_ CPU disertai diagram, jenis-jenis algoritma _scheduling_, dan ringkasan lainnya. Penjadwalan CPU memungkinkan satu proses menggunakan CPU sementara eksekusi proses lain ditunda, agar bisa membuat sistem menjadi lebih cepat dan efisien.
+
+21. [Linux Load Averages and Monitor Performance of Linux](https://www.tecmint.com/understand-linux-load-averages-and-monitor-performance/)<br>
+   Untuk memahami _command_ top yang dipakai selama pengerjaan LFS, maka website menjelaskan setiap keterangan dari hasil _command_ tersebut.
+   
+22. [Short-term vs Medium-term vs Long-term Scheduling](https://www.tutorialspoint.com/short-term-vs-medium-term-vs-long-term-scheduling)<br>
+   Pada laman ini dijelaskan perbedaan antara tiga proses _term_ pada _scheduling_, yaitu Short-term, Medium-term, dan Long-term yang telah dilengkapi bagan penjelasannya.
+   
