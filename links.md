@@ -79,7 +79,7 @@ permalink: /LINKS/
    Seberapa riskan si meng_update_ BIOS kalian? Karena saya pernah mengalami kerusakan pada BIOS, maka video kali ini berharap bisa membantu kalian agar lebih berhati-hati dan menambah edukasi.
 
 25. [RAID Reliability Calculator](https://www.servethehome.com/raid-calculator/raid-reliability-calculator-simple-mttdl-model/)<br>
-   Website tersebut terdapat kalkulator untuk memperkirakan seberapa _hard drive_ kamu bisa rusak.
+   Website tersebut terdapat kalkulator untuk memperkirakan seberapa lama _hard drive_ kamu bisa rusak.
 
 26. [What is Systemd?](https://avcourt.github.io/tiny-cluster/2019/08/01/systemd.html)<br>
    Systemd merupakan manajer sistem dan layanan untuk linux yang menyediakan kemampuan pararelisasi. Pada link ini terdapat _basic commands_ dan tentu saja yang paling menarik adalah _cheatsheets_ yang disediakan.
