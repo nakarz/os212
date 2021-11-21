@@ -72,3 +72,14 @@ permalink: /LINKS/
 22. [Short-term vs Medium-term vs Long-term Scheduling](https://www.tutorialspoint.com/short-term-vs-medium-term-vs-long-term-scheduling)<br>
    Pada laman ini dijelaskan perbedaan antara tiga proses _term_ pada _scheduling_, yaitu Short-term, Medium-term, dan Long-term yang telah dilengkapi bagan penjelasannya.
    
+23. [How Do Hard Drives Work?](https://www.youtube.com/watch?v=wteUW2sL7bc)<br>
+   Hard drive merupakan objek yang dapat memungkinkan untuk menyimpan lebih banyak informasi daripada _local library_. Sehingga bagaimana cara _hard drives_ bekerja pada komputer kita? Langsung aja _click_ dan tonton video animasi mengenai _How Do Hard Drives Work_ oleh Kanawat Senanan pada TED-Ed.
+   
+24. [How Risky Updating Your BIOS?](https://www.youtube.com/watch?v=x3y-r06Mq2M)<br>
+   Seberapa riskan si meng-_update_ BIOS kalian? Karena saya pernah mengalami kerusakan pada BIOS, maka video kali ini berharap bisa membantu kalian agar lebih berhati-hati dan menambah edukasi.
+
+25. [RAID Reliability Calculator](https://www.servethehome.com/raid-calculator/raid-reliability-calculator-simple-mttdl-model/)<br>
+   Website tersebut terdapat kalkulator untuk memperkirakan seberapa _hard drive_ kamu bisa rusak.
+
+26. [What is Systemd?](https://avcourt.github.io/tiny-cluster/2019/08/01/systemd.html)<br>
+   Systemd merupakan manajer sistem dan layanan untuk linux yang menyediakan kemampuan pararelisasi. Pada link ini terdapat _basic commands_ dan tentu saja yang paling menarik adalah _cheatsheets_ yang disediakan.
