@@ -97,3 +97,13 @@ ZCZC W08 35  L16 Assignment #06
 ZCZC W08 20  L17 Assignment #08
 ZCZC W08 15  L18 Assignment #09
 ZCZC W08 10  L19 Assignment #10
+ZCZC W09 20  L05 Quiz W08
+ZCZC W09 100 L04 OS Zoom related
+ZCZC W09 45  L11 Assignment #01
+ZCZC W09 40  L12 Assignment #02
+ZCZC W09 60  L13 Assignment #03
+ZCZC W09 600 L14 Assignment #04
+ZCZC W09 30  L15 Assignment #05
+ZCZC W09 15  L16 Assignment #07
+ZCZC W09 10  L17 Assignment #08
+ZCZC W09 08  L18 Assignment #09
