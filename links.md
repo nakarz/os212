@@ -76,7 +76,7 @@ permalink: /LINKS/
    Hard drive merupakan objek yang dapat memungkinkan untuk menyimpan lebih banyak informasi daripada _local library_. Sehingga bagaimana cara _hard drives_ bekerja pada komputer kita? Langsung aja _click_ dan tonton video animasi mengenai _How Do Hard Drives Work_ oleh Kanawat Senanan pada TED-Ed.
    
 24. [How Risky Updating Your BIOS?](https://www.youtube.com/watch?v=x3y-r06Mq2M)<br>
-   Seberapa riskan si meng-_update_ BIOS kalian? Karena saya pernah mengalami kerusakan pada BIOS, maka video kali ini berharap bisa membantu kalian agar lebih berhati-hati dan menambah edukasi.
+   Seberapa riskan si meng_update_ BIOS kalian? Karena saya pernah mengalami kerusakan pada BIOS, maka video kali ini berharap bisa membantu kalian agar lebih berhati-hati dan menambah edukasi.
 
 25. [RAID Reliability Calculator](https://www.servethehome.com/raid-calculator/raid-reliability-calculator-simple-mttdl-model/)<br>
    Website tersebut terdapat kalkulator untuk memperkirakan seberapa _hard drive_ kamu bisa rusak.
