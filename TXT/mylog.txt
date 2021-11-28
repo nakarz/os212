@@ -111,7 +111,7 @@ ZCZC W10 29  L05 Quiz W09
 ZCZC W10 40  L11 Assignment #01
 ZCZC W10 30  L12 Assignment #02
 ZCZC W10 30  L13 Assignment #03
-ZCZC W10 540 L14 Assignment #04
+ZCZC W10 540 L14 Half of Assignment #04
 ZCZC W10 30  L15 Assignment #05
 ZCZC W10 20  L16 Assignment #07
 ZCZC W10 10  L17 Assignment #08
