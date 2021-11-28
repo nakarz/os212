@@ -83,3 +83,6 @@ permalink: /LINKS/
 
 26. [What is Systemd?](https://avcourt.github.io/tiny-cluster/2019/08/01/systemd.html)<br>
    Systemd merupakan manajer sistem dan layanan untuk linux yang menyediakan kemampuan pararelisasi. Pada link ini terdapat _basic commands_ dan tentu saja yang paling menarik adalah _cheatsheets_ yang disediakan.
+   
+27. [I/O & Programming](http://inputoutput5822.weebly.com/programmed-io.html)<br>
+   Pada website ini terdapat penjelasan mengenai I/O Techniques dan catatan singkat yang disertai bagan-bagan untuk membantu memberi gambaran.
